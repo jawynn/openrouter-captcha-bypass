@@ -1,6 +1,6 @@
 # OpenRouter Captcha Bypass
 
-This project is a CLI tool for testing various types of captchas including puzzle, text, complicated text, and reCAPTCHA using Python and Selenium. The tool also uses OpenRouter API to help solve the captchas.
+This project is a CLI tool for testing various types of captchas including text and complicated text using Python. The tool also uses OpenRouter API to help solve the captchas.
 
 ## Prerequisites
 
@@ -18,8 +18,8 @@ This project is a CLI tool for testing various types of captchas including puzzl
    ```
 
 2. Install uv and restart shell:
-   MacOS and Linux
 
+   MacOS and Linux
    ```sh
    curl -LsSf https://astral.sh/uv/install.sh | sh
    ```
