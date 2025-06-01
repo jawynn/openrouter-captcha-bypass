@@ -1,7 +1,7 @@
 [project]
 name = "openrouter-captcha-bypass"
 version = "0.1.0"
-description = "Add your description here"
+description = "Captcha Bypass with Openrouter"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
